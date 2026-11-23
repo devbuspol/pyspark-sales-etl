@@ -5,16 +5,11 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Jupyter
-.ipynb_checkpoints/
-
 # PyCharm
 .idea/
 
-# Data
-data/raw/
-data/processed/
+# Jupyter
+.ipynb_checkpoints/
 
-# Logs
-logs/
-*.log
+# Processed data
+data/processed/*
